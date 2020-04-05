@@ -6,3 +6,10 @@ This tool is made for begginers who need to port scan with just a simple command
 
 
 This tool scans port with nmap  
+
+#INSTALLATION
+ 
+ * git clone https://github.com/rohjas/RJportscan.git
+ * cd RJportsscan
+ * chmod +x rj.sh
+ * bash rj.sh  (or)  ./rj.sh
