@@ -10,6 +10,6 @@ This tool scans port with nmap
 #INSTALLATION
  
  * git clone https://github.com/rohjas/RJportscan.git
- * cd RJportsscan
+ * cd RJportscan
  * chmod +x rj.sh
  * bash rj.sh  (or)  ./rj.sh
